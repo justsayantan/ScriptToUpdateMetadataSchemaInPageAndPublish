@@ -1,0 +1,6 @@
+C:\D\GitHub\ScriptToUpdateMetadataSchemaInPageAndPublish\bin\Debug\AddMetadataInPageAndUpdateValue.exe.config
+C:\D\GitHub\ScriptToUpdateMetadataSchemaInPageAndPublish\bin\Debug\AddMetadataInPageAndUpdateValue.exe
+C:\D\GitHub\ScriptToUpdateMetadataSchemaInPageAndPublish\bin\Debug\AddMetadataInPageAndUpdateValue.pdb
+C:\D\GitHub\ScriptToUpdateMetadataSchemaInPageAndPublish\obj\Debug\ScriptToUpdateMetadataSchemaInPageAndPublish.csprojResolveAssemblyReference.cache
+C:\D\GitHub\ScriptToUpdateMetadataSchemaInPageAndPublish\obj\Debug\AddMetadataInPageAndUpdateValue.exe
+C:\D\GitHub\ScriptToUpdateMetadataSchemaInPageAndPublish\obj\Debug\AddMetadataInPageAndUpdateValue.pdb

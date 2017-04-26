@@ -1,0 +1,19 @@
+D:\Custom Project\UpdatePageMetadata\AddMetadataInPageAndUpdateValue\bin\Debug\AddMetadataInPageAndUpdateValue.exe.config
+D:\Custom Project\UpdatePageMetadata\AddMetadataInPageAndUpdateValue\bin\Debug\AddMetadataInPageAndUpdateValue.exe
+D:\Custom Project\UpdatePageMetadata\AddMetadataInPageAndUpdateValue\bin\Debug\AddMetadataInPageAndUpdateValue.pdb
+D:\Custom Project\UpdatePageMetadata\AddMetadataInPageAndUpdateValue\bin\Debug\Tridion.ContentManager.CoreService.Client.dll
+D:\Custom Project\UpdatePageMetadata\AddMetadataInPageAndUpdateValue\obj\Debug\AddMetadataInPageAndUpdateValue.csprojResolveAssemblyReference.cache
+D:\Custom Project\UpdatePageMetadata\AddMetadataInPageAndUpdateValue\obj\Debug\AddMetadataInPageAndUpdateValue.exe
+D:\Custom Project\UpdatePageMetadata\AddMetadataInPageAndUpdateValue\obj\Debug\AddMetadataInPageAndUpdateValue.pdb
+C:\D\Projects\Malvern\AddMetadataInPageAndUpdateValue\bin\Debug\AddMetadataInPageAndUpdateValue.exe.config
+C:\D\Projects\Malvern\AddMetadataInPageAndUpdateValue\obj\Debug\AddMetadataInPageAndUpdateValue.exe
+C:\D\Projects\Malvern\AddMetadataInPageAndUpdateValue\obj\Debug\AddMetadataInPageAndUpdateValue.pdb
+C:\D\Projects\Malvern\AddMetadataInPageAndUpdateValue\bin\Debug\AddMetadataInPageAndUpdateValue.exe
+C:\D\Projects\Malvern\AddMetadataInPageAndUpdateValue\bin\Debug\AddMetadataInPageAndUpdateValue.pdb
+C:\D\Projects\Malvern\AddMetadataInPageAndUpdateValue\obj\Debug\AddMetadataInPageAndUpdateValue.csprojResolveAssemblyReference.cache
+C:\Users\sbasu\Documents\GitHub\AddMetadataInPageAndUpdateValue\bin\Debug\AddMetadataInPageAndUpdateValue.exe.config
+C:\Users\sbasu\Documents\GitHub\AddMetadataInPageAndUpdateValue\obj\Debug\AddMetadataInPageAndUpdateValue.exe
+C:\Users\sbasu\Documents\GitHub\AddMetadataInPageAndUpdateValue\obj\Debug\AddMetadataInPageAndUpdateValue.pdb
+C:\D\GitHub\ScriptToUpdateMetadataSchemaInPageAndPublish\bin\Debug\AddMetadataInPageAndUpdateValue.exe.config
+C:\D\GitHub\ScriptToUpdateMetadataSchemaInPageAndPublish\obj\Debug\AddMetadataInPageAndUpdateValue.exe
+C:\D\GitHub\ScriptToUpdateMetadataSchemaInPageAndPublish\obj\Debug\AddMetadataInPageAndUpdateValue.pdb
